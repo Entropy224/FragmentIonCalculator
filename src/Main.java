@@ -38,7 +38,6 @@ public class Main {
 
         testPeptide.peptideModifier(modifications);
 
-
         String filePathPeak = "E:\\Anwendungen\\IntelliJ\\Fragment-Ion-Calculator-master\\EColi_BSASpikeIn_1to1_12180_mod.csv";
         File peaksDoc = new File (filePathPeak);
         ArrayList<Peak> peaks;

@@ -1,0 +1,6 @@
+git add .
+git commit -m "Message"
+git push -u origin master
+
+neuen stand laden (auf anderem pc) :
+git pull
